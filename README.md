@@ -4,7 +4,7 @@
 
 [Notice] Please follow the HW Be Careful rules when submitting assignments. For assignment-related questions, contact the TAs via email.
 
-[Vedio] TA Class - [Eviroment Setup & HW Rule](https://youtu.be/7wqko8ine6k)
+[Video] TA Class - [Environment Setup & HW Rule](https://youtu.be/7wqko8ine6k)
 
 ---
 # Weekly Lab #
@@ -13,7 +13,7 @@
 - 楊智丞 114356044@g.nccu.edu.tw
 - 王棋家 115356021@g.nccu.edu.tw
 
-**Lab times**: Monday 12:10-2:00pm  
+**Lab times**: Monday 12:10-14:00
 **Lab location**: Yi-Xian Building 5F MIS PC Classroom(0502)
 
 Course Website: http://soslab.nccu.edu.tw/Courses.html
@@ -22,7 +22,7 @@ Course Website: http://soslab.nccu.edu.tw/Courses.html
 
 | 週次 | 日期        | 主題                |
 |------|-------------|---------------------|
-| 2 | 09/14       | Enviroment Setup, HW Rule Announcement, HW1|
+| 2 | 09/14       | Environment Setup, HW Rule Announcement, HW1|
 | 3 | 09/21       | HW2 |
 | 4 | 09/28       |     |
 | 5 | 10/05       |     |
