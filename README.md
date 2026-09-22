@@ -14,6 +14,7 @@
 - 王棋家 115356021@g.nccu.edu.tw
 
 **Lab times**: Monday 12:10-14:00
+
 **Lab location**: Yi-Xian Building 5F MIS PC Classroom(0502)
 
 Course Website: http://soslab.nccu.edu.tw/Courses.html
