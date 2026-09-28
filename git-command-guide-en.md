@@ -116,6 +116,31 @@ gh auth setup-git
 
 Official references: [gh auth login](https://cli.github.com/manual/gh_auth_login) and [gh auth setup-git](https://cli.github.com/manual/gh_auth_setup-git)
 
+### 3.1 Configure Git Commit Author Information (Not Covered in the Video)
+
+`gh auth login` and `gh auth setup-git` authenticate your GitHub account and manage credentials. Git also needs the author name and email to include in each commit.
+
+Check the current settings first:
+
+```bash
+git config user.name
+git config user.email
+```
+
+If there is no output, configure the author information globally:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+```
+
+`--global` applies the settings to all repositories on this computer. To configure only the current repository, omit `--global`:
+
+```bash
+git config user.name "Your Name"
+git config user.email "your-email@example.com"
+```
+
 ## 4. Push the Local Project to GitHub
 
 First, switch to the local project directory:

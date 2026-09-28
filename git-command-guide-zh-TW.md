@@ -116,6 +116,31 @@ gh auth setup-git
 
 官方參考：[gh auth login](https://cli.github.com/manual/gh_auth_login) 與 [gh auth setup-git](https://cli.github.com/manual/gh_auth_setup-git)
 
+### 3.1 設定 Git commit 作者資訊（影片未提及）
+
+`gh auth login` 和 `gh auth setup-git` 是用來驗證 GitHub 帳號與管理 credential；Git 還需要另外知道每個 commit 的作者姓名與 email。
+
+先檢查目前設定：
+
+```bash
+git config user.name
+git config user.email
+```
+
+如果沒有輸出，設定全域作者資訊：
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+```
+
+`--global` 會套用到這台電腦上的所有 repository。如果只想設定目前的 repository，可以省略 `--global`：
+
+```bash
+git config user.name "Your Name"
+git config user.email "your-email@example.com"
+```
+
 ## 4. 將本機專案推送到 GitHub
 
 先切換到本機專案資料夾：
