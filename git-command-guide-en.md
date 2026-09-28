@@ -1,5 +1,7 @@
 # Git Command Guide: Creating a New GitHub Repository
 
+![What is git vs github?](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS40XOCfTZOjWXi3O3FKdCfbyT6-L-qNFBX9egHXpZrtN58j4p_400vjuCZ&s=10)
+
 ![Git 與Github 是什麼？如何使用 Git？｜Ray C的沙龍](https://images.vocus.cc/401e1ad6-a1f9-4104-8235-9cfd636efc6f.png)
 
 The workflow is:
