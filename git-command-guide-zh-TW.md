@@ -1,5 +1,7 @@
 # Git Command Guide：建立新的 GitHub Repository
 
+![Git 與Github 是什麼？如何使用 Git？｜Ray C的沙龍](https://images.vocus.cc/401e1ad6-a1f9-4104-8235-9cfd636efc6f.png)
+
 流程如下：
 
 1. 安裝 GitHub CLI（`gh`）

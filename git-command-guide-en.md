@@ -1,6 +1,6 @@
 # Git Command Guide: Creating a New GitHub Repository
 
-This guide shows how to turn a local project into a new GitHub repository on macOS or Windows.
+![Git 與Github 是什麼？如何使用 Git？｜Ray C的沙龍](https://images.vocus.cc/401e1ad6-a1f9-4104-8235-9cfd636efc6f.png)
 
 The workflow is:
 
