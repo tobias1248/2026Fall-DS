@@ -1,0 +1,21 @@
+add Fang 3 1.5
+add Yu 5 1.2
+add NCCU 3 0.8
+add UCSB 2 2.2
+add MIS 2 1.2
+add Badminton 4 2.3
+add Food 3 0.1
+add Data 3 0.3
+add Structure 4 2.1
+outputScore
+deleteCount 3
+outputCount 2
+outputName Yu
+deleteName Yu
+outputHas a
+deleteHas a
+outputIndex 2
+deleteIndex 4
+deleteFirstN 1
+outputFirstN 3
+deleteAll
