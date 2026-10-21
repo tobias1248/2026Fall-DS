@@ -1,0 +1,9 @@
+add Fang 3 1.2
+add Yu 5 1.8
+add NCCU 2 0.6
+add UCSB 1 1.9
+peek
+add MIS 4 2.2
+removeMin
+add Badminton 1 0.6
+output
