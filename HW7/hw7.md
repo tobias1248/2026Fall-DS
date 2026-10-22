@@ -142,7 +142,7 @@ output
 
 ## Submission
 
-- **First Submission:** 10/25 (Sun.) 11:59  
-- **Final Deadline:** 11/1 (Sun.) 23:59  
+- **First Submission:** 11/1 (Sun.) 11:59  
+- **Final Deadline:** 11/8 (Sun.) 23:59  
 - Upload your code via **Moodle**.
 
