@@ -27,12 +27,12 @@ Course Website: http://soslab.nccu.edu.tw/Courses.html
 | ---- | ----- | -------------------------------------------- |
 | 2    | 09/14 | Environment Setup, HW Rule Announcement, HW1 |
 | 3    | 09/21 | HW2                                          |
-| 4    | 09/28 | Teacher's Day,**No Class**, HW3 Video        |
+| 4    | 09/28 | Teacher's Day,**No Class**, HW3 Video  |
 | 5    | 10/05 | HW4                                          |
 | 6    | 10/12 | HW5                                          |
 | 7    | 10/19 | HW6                                          |
-| 8    | 10/26 | **No Class**, HW7 Video                      |
-| 9    | 11/02 |                                              |
+| 8    | 10/26 | **No Class**, Ready for Prescreen      |
+| 9    | 11/02 | HW7                                          |
 | 10   | 11/09 |                                              |
 | 11   | 11/16 |                                              |
 | 12   | 11/23 |                                              |
