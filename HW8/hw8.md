@@ -4,7 +4,7 @@
 
 過去開發類似應用通常會直接呼叫 Google 提供的搜尋 API，但 Google 已經在 2026 年起停止對新用戶開放這項服務，因此這次作業改用 **Tavily Search API**。
 
-<img src="1.png" width="420"> <img src="2.png" width="420">
+<img src="1.png" width="480"> <img src="2.png" width="480">
 
 （以上為示意圖，實際排版、配色、搜尋引擎名稱等皆可自行發揮，設計不影響此作業評分）
 
@@ -33,7 +33,7 @@ Tavily 是一個搜尋 API 服務，讓你可以用程式發送查詢字詞，�
     - 到 https://www.tavily.com 註冊帳號。
     - 到 https://app.tavily.com 的 Dashboard 取得 API 金鑰（格式類似 `tvly-xxxxxxxx`）。
 
-<img src="3.png" width="420">
+![alt text](<3.png>)
 
 ⚠️ **注意：繳交時會附上公開的 GitHub 連結，請勿把 `application.properties` 裡真實的 `apiKey` 一起 commit 上去，避免金鑰外洩。建議把含有金鑰的設定另外抽出（例如用環境變數，或把該檔案加進 `.gitignore`）。**
 
