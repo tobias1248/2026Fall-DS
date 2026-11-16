@@ -35,8 +35,8 @@ Course Website: http://soslab.nccu.edu.tw/Courses.html
 | 9    | 11/02 | HW7                                          |
 | 10   | 11/09 | HW8                                          |
 | 11   | 11/16 | HW9                                          |
-| 12   | 11/23 |                                              |
-| 13   | 11/30 |                                              |
-| 14   | 12/07 |                                              |
-| 15   | 12/14 |                                              |
-| 16   | 12/21 |                                              |
+| 12   | 11/23 | HW10                                         |
+| 13   | 11/30 | **No Class**, Open for Project Questions                          |
+| 14   | 12/07 | **No Class**, Open for Project Questions                                                |
+| 15   | 12/14 | **No Class**, Open for Project Questions                                                |
+| 16   | 12/21 | No Class                                     |
