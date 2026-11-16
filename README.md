@@ -33,8 +33,8 @@ Course Website: http://soslab.nccu.edu.tw/Courses.html
 | 7    | 10/19 | HW6                                          |
 | 8    | 10/26 | **No Class**, Ready for Prescreen      |
 | 9    | 11/02 | HW7                                          |
-| 10   | 11/09 |                                              |
-| 11   | 11/16 |                                              |
+| 10   | 11/09 | HW8                                          |
+| 11   | 11/16 | HW9                                          |
 | 12   | 11/23 |                                              |
 | 13   | 11/30 |                                              |
 | 14   | 12/07 |                                              |
