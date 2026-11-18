@@ -1,0 +1,8 @@
+add Fang 3
+add Yu 5
+add NCCU 2
+add UCSB 1
+add Management 4
+add Information 5
+find NTU
+find Manager
